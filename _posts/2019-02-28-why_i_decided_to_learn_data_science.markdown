@@ -14,7 +14,7 @@ it, allows us to make decisions and learn things that may not have been the obvi
 naked eye. On top of that, the needs and uses for data science are countless. From a business's advertising 
 investment, to an urban farming project, all the way down to making decisions on a personal level, as to how I should 
 spend my time in any given day. Data science can be used to make decisions and predictions for almost anything in the 
-world around us. It gives us a sense of power and the ability to be a positive influence on the world around us.
+world around us. It gives us a sense of power and the ability to be a positive influence on the world.
 
 
 I have a lot of interests in all sorts of things. Music, crafts, science and mechanics, the list goes on. I enjoy learning 
