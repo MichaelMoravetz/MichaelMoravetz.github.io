@@ -23,7 +23,7 @@ interesting, is an eye opening and informative experience as well. Ive found tha
 if it seems to be of complete insignificance, the more I feel able to make better decisions regarding completely 
 unrelated things in life. Drawing connections between different fields of study gives us the chance to make better 
 decisions in whatever field we find ourselves. Data science gives us the opportunity to get to know anything in a deep 
-sense, inside and out, while honing in on whatever element we decide to focus. It seems fair to say, that whatever 
+sense, inside and out, while honing in on whatever element we decide to focus in on. It seems fair to say, that whatever 
 project you are working on, you will get to know the ins and outs of that subject very well. And with data science we can 
 start to see valuable connections which we could not see before.  This allows us to be more informed, make better 
 choices, and to gain an upper hand over the competition, if that is so desired. That is a very satisfying and fulfilling 
