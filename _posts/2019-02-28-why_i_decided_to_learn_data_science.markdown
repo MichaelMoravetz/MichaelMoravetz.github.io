@@ -27,9 +27,9 @@ sense, inside and out, while honing in on whatever element we decide to focus in
 project you are working on, you will get to know the ins and outs of that subject very well. And with data science we can 
 start to see valuable connections which we could not see before.  This allows us to be more informed, make better 
 choices, and to gain an upper hand over the competition, if that is so desired. That is a very satisfying and fulfilling 
-feeling for me and a big reason why I am interested in data science. Diving into something and looking at data below 
+feeling for me and a big reason why I am interested in data science. Diving into something and looking at it from below 
 the surface, allows us to know things that others simply could not know and see connections that otherwise would be 
-unknown. This can have huge affects on the rest of the world as our understandings continue to grow.
+unknown. This can have huge effects on the rest of the world as our understandings continue to grow.
 
 
 From that previously unaccessed knowledge, comes power! With learning things in a new light, we have the ability to 
