@@ -16,7 +16,7 @@ Matpltlib allows you to control the defaults of almost every property in matplot
 ### Getting Started
 
 To start, I recomend getting acquainted with the documentation on this subject which can be found at this link: 
->[https://matplotlib.org/tutorials/introductory/customizing.html].
+>[[https://matplotlib.org/tutorials/introductory/customizing.html](http://)].
 
 **Things to remember** :
 
@@ -26,9 +26,9 @@ Color is a fun and important property that allows to make plots both nicer to lo
 
 - Keep in mind the purpose of this style sheet.  Will this style be used for plots in a notebook, a presentation or will it be printed?  While certain colors may look good in comparison in your local notebook environment or jupyter theme in a notebook, in other circumstances it could become hard to read and a bit of an eye sore.  Choosing color that either work on a dark or light colored background will make them more versatile. Otherwise, the style will be best used for particular circumstances. ie. a dark themed plot can be great for a presentation slide show, but not at all ideal fro printing. Similarly a yellow font color will look great in the dark theme of your local environment, but when pushed to github, the them will be defaulted rendering the yellow font illegible on a light background.
 - It is always best to use colors that are visible for people who are colorblind.  Using colors that are not colorblind safe, can lead to people interpretting data differently than those who are not afflicted.  I recomend taking a look at a reference that can render colors as somebody with colorblindness would see them. An interactive tool for this is located here: 
->https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40
+>[https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40](http://)
 - Choose a safe defalt color map.  The cycler function in matplotlib cycles through colors while plotting to show different colors for different features.  Having a unique color map can really make your plots stand out, but it is important to default to a general purpose categorical palette.   While a color palette can be easily changed when plotting, generally, having distinctly different colors that work well together will fill many plotting needs.  However, if what you are styling is a heat map, it can be useful to default to a diverging or sequential color map.  Remember that humans interpret different color values and saturation sequentially and this has a large effect on interpretation.  There are many options for custom palettes and seaborn has a tool for manipulating palettes. If you are ultra ambitious, you can create youre own custom palettes for whatever needs you have. A good starting place for selecting a default color map is with matplot libs provided color maps, check out the documentaion here:
->https://matplotlib.org/users/colormaps.html
+>[https://matplotlib.org/users/colormaps.html](http://)
 
 
 Remember that style sheets are designed to be composed together.  The style sheet last called will over write previously styled configurations.  Being aware of what each sheet does can eliminate a lot of confusion.  Using different sheets for configuring different elements is a good way to build complimentary styles yet maintain unique differences and maintain control of configurations.  For example, a sheet that only configures color, and a sheet that only configures  line elements could easily be used together. Later on, the same color sheet could be used with a different set of line configurations and this would eliminate the need to rewrite the same code in every file used.  This can create an attractive general style theme while implementing minor subtle changes for individual plotting needs.
@@ -122,7 +122,7 @@ mpl.get_cachedir()
 ```
 
 The output for  ```mpl.get_configdir()``` will display something like this by default: ```~/.config/matplotlib```.
-In some situations, you may have to create a ```mpl_configdir/stylelib``` directory.  Inside of that file put the style sheet with the name of the file followed by ```.mplstyle```. Boom, you now have a custom style sheet which can be called whenever you desire.
+In some situations, you may have to create a ```mpl_configdir/stylelib``` directory.  Inside of that directory, put the style sheet with the name of the file followed by ```.mplstyle```. Boom, you now have a custom style sheet which can be called whenever you desire.
 
 the file path will look something like this:
 
