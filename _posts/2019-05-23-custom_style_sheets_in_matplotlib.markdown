@@ -42,7 +42,7 @@ There are three main steps to creating and implementing your own style sheet:
 2.  Creating a file or url for that style sheet to live in.
 3.  Calling the style to be used for either changing the current rc settings or for temporarily using the style sheet.
 
-## Defining You First Style Sheet
+## Defining Your First Style Sheet
 
 Take some time to  get familiar with matplot libs rc prameters and default stylings.  This can be done by throoughly reading through documentation or going directly to a style sheet and viewing its contents in its directory.  I would recommend finding a style with some of the settings you like ande comparing them to the default settings as a way o get comfortable with what each parameter is actually doing.
 
@@ -97,7 +97,7 @@ A portion of the style sheet template provided by matplotlib looks like this:
 
 ```
 
-## Create File and Directory For Storing Your Style Sheet
+## Create a Directory For Storing Your Style Sheet
 
 Once a style sheet has been defined, it needs to be properly stored so it can be accessed from within a jupyter notebook or python file.   This blog will focus on the first option, but there are alternative approaches.  The first is store the style_sheet.py file in the approprate directory in matplotlib.  A second option is to use a url. You can then call the style by using either the file path or the url.  However, a more ideal way of dealing with this is to give your style a name like the provided styles provided with matplotlib.  Here are the steps for storing a style sheet in the appropriate directory and giving it a name so it can be easily called when needed.
 
