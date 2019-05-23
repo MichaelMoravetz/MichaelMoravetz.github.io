@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Creating a Stacked Classifier Class"
-date:       2019-05-23 18:34:59 +0000
+title:      "Creating a Stacking Classifier using Sklearn API"
+date:       2019-05-23 14:35:00 -0400
 permalink:  creating_a_stacked_classifier_class
 ---
 
