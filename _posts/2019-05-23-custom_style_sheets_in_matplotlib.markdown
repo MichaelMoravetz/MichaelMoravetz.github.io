@@ -16,7 +16,7 @@ Matpltlib allows you to control the defaults of almost every property in matplot
 ### Getting Started
 
 To start, I recomend getting acquainted with the documentation on this subject which can be found at this link: 
->[[https://matplotlib.org/tutorials/introductory/customizing.html](http://)].
+>[https://matplotlib.org/tutorials/introductory/customizing.html](http://).
 
 **Things to remember** :
 
