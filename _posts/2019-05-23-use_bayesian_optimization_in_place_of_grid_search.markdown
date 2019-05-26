@@ -154,4 +154,4 @@ plt.show()
 ![](https://scikit-optimize.github.io/notebooks/hyperparameter-optimization_files/hyperparameter-optimization_13_1.png)
 
 ## Wrapping Up
-There you have a quick explanation and tutorial on Bayesian optimization and how to implement it using a popular python module.  Getting familiar with all of the aspects of skopt can make creating your own optimization tools and defining your own functions a very useful and powerful tool to keep in the toolbox.  Good luck with your endeavors!
+There you have a quick explanation and tutorial on Bayesian optimization and how to implement it using a popular python module.  Getting familiar with all of the aspects of skopt can make creating your own optimization tools and defining your own functions a very useful. It is indeed a powerful tool to keep in the toolbox!  Good luck with your endeavors!
